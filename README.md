@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VolkanArslan
-- 👀 I’m interested in Web and Mobile Development.
-- 🌱 I’m currently learning .Net Core and Kotlin/Android.
-- 💞️ I’m looking to make the team with my friends for professional projects.
+- 🌱 I’m a backend developer mainly uses .Net Core.
+- 💞️ You can see the demo projects I usually do to improve myself here.
 - 📫 You can reach me by e-mail: volkanarslan@protonmail.com
 
 <!---
